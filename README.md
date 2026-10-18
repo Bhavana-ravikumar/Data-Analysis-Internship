@@ -1,4 +1,4 @@
-# Data Analysis Internship Projects | Cognifyz Technologies
+# Data Analysis Internship Projects 
 
 Restaurant data analysis completed during my Data Analysis internship at Cognifyz Technologies. I completed two of the three program levels (Level 1 and Level 3), each with a Python notebook and a Power BI report.
 
